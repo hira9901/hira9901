@@ -29,6 +29,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hira9901&show_icons=true&locale=en&layout=compact" alt="hira9901" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hira9901&show_icons=true&locale=en" alt="hira9901" /></p>
+<img src="./snake.png">
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hira9901&" alt="hira9901" /></p>
 
