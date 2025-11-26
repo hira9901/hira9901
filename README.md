@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/hira9901](https://github.com/hira9901)
 
-- 💬 Ask me about **Html, Cgithub many more ,**
+- 💬 Ask me about **Html, css, github many more ,**
 
 - 📫 How to reach me **hamidrameez003@gmail.com**
 
