@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hira Hamid</h1>
-<h3 align="center">A passionate full stack developer from pakistan</h3>
+<h3 align="center">A passionate frontend developer from pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hira9901&label=Profile%20views&color=0e75b6&style=flat" alt="hira9901" /> </p>
 
@@ -29,7 +29,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hira9901&show_icons=true&locale=en&layout=compact" alt="hira9901" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hira9901&show_icons=true&locale=en" alt="hira9901" /></p>
-<img src="./snake.png">
+
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hira9901&" alt="hira9901" /></p>
